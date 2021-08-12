@@ -1,3 +1,3 @@
-# Hello, I'm Raquel :mão:
+# Hello, I'm Raquel
 
 Meu repositório pessoal
